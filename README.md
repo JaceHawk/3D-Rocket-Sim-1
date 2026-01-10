@@ -15,7 +15,7 @@ A custom-built 3D rendering and physics engine written in pure Python. This proj
 * **Vector Visualization:** Real-time rendering of Velocity, Gravity, and Heading vectors for debugging flight forces.
 
 ### 3. Flight Systems
-* **6-DOF Control:** Full pitch, yaw, and thrust controls.
+* **5-DOF Control:** Full pitch, yaw, and thrust controls.
 * **Time Warp:** Dynamic time-step simulation allowing 1x to 50x simulation speeds.
 * **Instrumentation:** Heads-Up Display (HUD) showing altitude, orbital velocity, and camera modes.
 
